@@ -1,4 +1,4 @@
-<a href="https://saas_stripe_starter_next.app">
+<a href="https://next-saas-stripe-starter.vercel.app">
   <img alt="SaaS Starter" src="public/_static/og.jpg">
   <h1 align="center">Next SaaS Stripe Starter</h1>
 </a>
@@ -27,7 +27,7 @@ All seamlessly integrated with the SaaS Starter to accelerate your development a
 Clone & create this repo locally with the following command:
 
 ```bash
-npx create-next-app my-saas-project --example "https://github.com/STAR7077SaaS_Stripe_Starter_Next"
+npx create-next-app my-saas-project --example "https://github.com/CloudDev777/SaaS_Stripe_Starter_Next"
 ```
 
 Or, deploy with Vercel:
@@ -65,7 +65,7 @@ pnpm run dev
 
 ## Tech Stack + Features
 
-https://github.com/mickasmt/next-saas-stripe-starter/assets/62285783/828a4e0f-30e3-4cfe-96ff-4dfd9cd55124
+https://github.com/CloudDev777/SaaS_Stripe_Starter_Next/assets/62285783/828a4e0f-30e3-4cfe-96ff-4dfd9cd55124
 
 ### Frameworks
 
